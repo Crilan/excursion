@@ -1,0 +1,29 @@
+
+body{
+  font-family: Verdana;/*Verdana is the only font*/
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+h1{
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+/* color:gray should override body{color:white}*/
+p{
+  font-size: 21px;
+  color: gray;
+}
+a{
+  color: aquamarine;
+  font-size: 16px;
+}
+/*div for align to the right*/
+.copyright{
+  text-align: right;
+}
